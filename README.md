@@ -13,5 +13,5 @@ Scaricare il file ".ipynb" e aprirlo su Jupyter Notebook.
 # Ringraziamenti
 Come dizionari per la generazione casuale di parole sono stati utilizzati due file di testo depositati...
 L'applicazione è il risultato di un lavoro di gruppo al quale hanno partecipato:
-- Caterina Pappadà ed Emanuele Colasanto () per la scrittura del codice principale e il coordinamento delle varie funzioni
+- Caterina Pappadà (https://github.com/CaterinaPG) ed Emanuele Colasanto () per la scrittura del codice principale e il coordinamento delle varie funzioni
 - Mario Nacci (), per la scrittura della funzione per la gestione della grafica

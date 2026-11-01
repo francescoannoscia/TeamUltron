@@ -16,11 +16,11 @@ Come linguaggio di programmazione è stato utilizzato il Python, mentre per la s
 11. **askPlayAgain_function.ipynb**: funzione per la gestione del riavvio del gioco
 
 # Utilizzo
-Scaricare il file "main.ipynb" e aprirlo su Jupyter Notebook.
+Scaricare il file "main.ipynb" e aprirlo su Jupyter Notebook. Eseguire il codice presente in tutte le celle del Jupyter Notebook (caricamento delle funzioni), creare una nuova cella, scrivere semplicemente 'main()' ed eseguirla per avviare il gioco.
 
 # Ringraziamenti
 Come "dizionari" per la generazione casuale di parole, sono stati utilizzati due file di testo (elenchi di parole) depositati sul repository GitHub "parole italiane" (https://github.com/napolux/paroleitaliane) di Francesco Napoletano (https://github.com/napolux).
 
 La realizzazione dell'applicazione è il risultato di un lavoro di gruppo al quale hanno partecipato:
 - Caterina Pappadà (https://github.com/CaterinaPG) ed Emanuele Colasanto (https://github.com/colasantoemanuele-cloud) per la scrittura delle funzioni per la gestione e il controllo dei vari input dell'utente e per il fulcro algoritmico del gioco
-- Mario Nacci (https://github.com/Rioma305) per la scrittura della funzione per la gestione della grafica
+- Mario Nacci (https://github.com/Rioma305) per la scrittura delle funzioni per la gestione della grafica
